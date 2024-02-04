@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}  
+
+/* body{
+    background-image: url(../Image/Homepage.png);
+} */
+
+.main{
+    
+}
+
+.account{
+    margin-bottom: 1rem;
+}
+
+.background img{
+    width: 1440px;
+    height: 1024px;
+    top: -513;
+    left: -720;
+    position: absolute;
+}
+
+.lotion-form{
+    position: relative;
+    width: 589px;
+    height: 883px;
+    top: 70px;
+    left: 23px;
+    border-radius: 8px;
+    background-color: burlywood 38%;
+}
+
+.first-div{
+    width: 346px;
+    height: 694px;
+    top: 94px;
+    left: 121px;
+    position: relative;
+}
+
+.sp1, .sp2, .sp3, .sp4, .sp5, .sp7 {
+    width: 345px;
+    height: 48px;
+    left: 1px;
+    border-radius: 8px;
+    border: 1px;
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+}
+
+.sp6{
+    /* margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 1rem; */
+    width: 345px;
+    height: 48px;
+    left: 1px;
+    border-radius: 8px;
+    background-color: #6DA01E;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    border: none;
+}
+
+.sp6 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.sp7{
+    top: 596px;
+    background-color: #ffffff;
+    border-color: #6DA01E;
+}
+
+.sp7 a{
+    text-decoration: none;
+    color: #6DA01E;
+   /* align-items: center;*/
+    width: 160px;
+    height: 24px;
+    top: 12px;
+    left: 73px;
+
+}
+
+p a{
+    text-decoration: none;
+    color: #6DA01E;
+}
+
+.off{
+    margin-left: 300px;
+}
+
+.google{
+    width: 16.74px;
+    height: 12.42px;
+    top: 1.5px;
+    left: 2.64px;
+    align-items: flex-end;
+}
